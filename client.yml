@@ -1,0 +1,7 @@
+server:
+    host: 172.17.247.104
+    port: 5000
+execution:
+    init_packets: 20000
+    attacker_percentage: 20
+    attacker_multiplier: 10

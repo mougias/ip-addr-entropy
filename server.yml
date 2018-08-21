@@ -1,0 +1,7 @@
+server:
+    host: 172.18.54.139
+    port: 5000
+execution:
+    init_samples: 10
+    sample_size: 10000
+    threshold: 0.50
